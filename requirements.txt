@@ -1,0 +1,6 @@
+# Minimal dependencies for early-stage EDA (no deep learning stack yet).
+numpy
+pandas
+matplotlib
+jupyter
+

@@ -1,0 +1,24 @@
+# Dataset (never commit)
+criteo_advertising_dataset/
+
+# Virtual environments
+.venv/
+
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
